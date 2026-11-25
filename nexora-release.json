@@ -1,0 +1,17 @@
+{
+  "runtime_api": 1,
+  "version": "1.4.4",
+  "notes": "Atualização 1.4.4",
+  "packages": [
+    {
+      "file": "Nexora-update-1.4.4.zip",
+      "base": null,
+      "sha256": "0fc1842d703465352e8a954773502c5fcd2429902c11912c46f2281603e157cc"
+    },
+    {
+      "file": "Nexora-update-1.4.4-from-1.4.3.zip",
+      "base": "1.4.3",
+      "sha256": "bbfce6c0117cad35a63034b6c40b5c337867d484e929812c7a428dca0066e6e8"
+    }
+  ]
+}
